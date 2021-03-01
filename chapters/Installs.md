@@ -1,6 +1,6 @@
 # Installations
 
-### Vue CLI
+## Vue CLI
 
 The Vue CLI is a command line tool that makes it easy to create new Vue applications. It can be installed globally via npm
 
@@ -8,7 +8,7 @@ The Vue CLI is a command line tool that makes it easy to create new Vue applicat
 npm install -g @vue/cli
 ```
 
-### Vue Devtools
+## Vue Devtools
 
 Vue Devtools is a browser extension that makes inspecting and debugging Vue applications easy.
 
